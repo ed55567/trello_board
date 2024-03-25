@@ -1,5 +1,6 @@
+
 <template>
   <div>
-    <NuxtWelcome />
+   <trello-board />
   </div>
 </template>
